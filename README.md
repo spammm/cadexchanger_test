@@ -98,7 +98,7 @@ Some Hostings offer an automated depoloy process, such as [Netlify](https://app.
 
 ## Styling, SEO, and Performance Strategies Used
 
-![alt-текст](https://api.tehpulse.ru/uploads/images/b8c818c7-6103-4445-ab5a-d2f3be98d838.webp 'Light House Test')
+![alt-text](https://api.tehpulse.ru/uploads/images/b8c818c7-6103-4445-ab5a-d2f3be98d838.webp 'Light House Test')
 
 ### Styling
 
@@ -118,14 +118,14 @@ Some Hostings offer an automated depoloy process, such as [Netlify](https://app.
 
 ### Technologies Used
 
-React: ^18.3.1
-Vite: ^5.4.10
-TypeScript: ~5.6.2
-Material-UI (MUI): ^6.1.6
-React Router DOM: ^6.27.0
-React Hook Form: ^7.53.1
-Styled Components: ^6.1.13
-React Lite YouTube Embed: ^2.4.0
+- React: ^18.3.1
+- Vite: ^5.4.10
+- TypeScript: ~5.6.2
+- Material-UI (MUI): ^6.1.6
+- React Router DOM: ^6.27.0
+- React Hook Form: ^7.53.1
+- Styled Components: ^6.1.13
+- React Lite YouTube Embed: ^2.4.0
 
 ## How to Use
 
