@@ -19,7 +19,7 @@ const SubmissionConfirmation: React.FC<SubmissionConfirmationProps> = ({
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        minHeight: '100%',
+        minHeight: 'calc(100vh - 270px)',
       }}
     >
       <Typography

@@ -102,19 +102,19 @@ Some Hostings offer an automated depoloy process, such as [Netlify](https://app.
 
 ### Styling
 
-**Material-UI (MUI) v6**: Leveraged for a consistent and responsive UI component library adhering to Material Design principles.
-**Styled Components**: Employed for writing CSS-in-JS styles, allowing for dynamic styling and theming.
+- **Material-UI (MUI) v6**: Leveraged for a consistent and responsive UI component library adhering to Material Design principles.
+- **Styled Components**: Employed for writing CSS-in-JS styles, allowing for dynamic styling and theming.
 
 ### SEO
 
-**Meta Tags**: Included essential meta tags (title, description, viewport) for better SEO and responsiveness.
-**Open Graph Protocol**: Implemented Open Graph meta tags to enhance link previews when the site is shared on social media platforms like Facebook and LinkedIn.
-**Twitter Cards**: Added Twitter Card meta tags to control how the page is displayed when shared on Twitter.
+- **Meta Tags**: Included essential meta tags (title, description, viewport) for better SEO and responsiveness.
+- **Open Graph Protocol**: Implemented Open Graph meta tags to enhance link previews when the site is shared on social media platforms like Facebook and LinkedIn.
+- **Twitter Cards**: Added Twitter Card meta tags to control how the page is displayed when shared on Twitter.
 
 ### Performance
 
-**Vite**: Utilized Vite for its fast development server and optimized build process, resulting in quicker load times and improved developer experience.
-**React Lite YouTube Embed**: For YouTube video, uploads video only by click, shows easy picture in preview
+- **Vite**: Utilized Vite for its fast development server and optimized build process, resulting in quicker load times and improved developer experience.
+- **React Lite YouTube Embed**: For YouTube video, uploads video only by click, shows easy picture in preview
 
 ### Technologies Used
 
@@ -131,6 +131,6 @@ Some Hostings offer an automated depoloy process, such as [Netlify](https://app.
 
 Navigation: The application has two main pages accessible via React Router DOM.
 
-Home Page: Accessible at `/`.
-Contact Us Page: Accessible at `/contact-us`.
-Forms: The contact form utilizes react-hook-form for efficient form state management and validation.
+- Home Page: Accessible at `/`.
+- Contact Us Page: Accessible at `/contact-us`.
+- Forms: The contact form utilizes react-hook-form for efficient form state management and validation.
